@@ -1,0 +1,2 @@
+#define MYSQLUSER "SCOTT"
+#define MYSQLPASS "TIGER"
