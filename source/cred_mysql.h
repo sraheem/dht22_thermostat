@@ -1,2 +1,2 @@
-#define MYSQLUSER "SCOTT"
-#define MYSQLPASS "TIGER"
+#define MYSQLUSER "root"
+#define MYSQLPASS "raspberry"
